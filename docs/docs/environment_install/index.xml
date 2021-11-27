@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Environment_install on </title>
+    <link>https://yrdimple.github.io/docs/environment_install/</link>
+    <description>Recent content in Environment_install on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 27 Nov 2021 18:31:28 +0800</lastBuildDate><atom:link href="https://yrdimple.github.io/docs/environment_install/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mac_bug</title>
+      <link>https://yrdimple.github.io/docs/environment_install/mac_bug/</link>
+      <pubDate>Sat, 27 Nov 2021 18:32:41 +0800</pubDate>
+      
+      <guid>https://yrdimple.github.io/docs/environment_install/mac_bug/</guid>
+      <description>asdf asdf</description>
+    </item>
+    
+    <item>
+      <title>Win_bug</title>
+      <link>https://yrdimple.github.io/docs/environment_install/win_bug/</link>
+      <pubDate>Sat, 27 Nov 2021 18:32:36 +0800</pubDate>
+      
+      <guid>https://yrdimple.github.io/docs/environment_install/win_bug/</guid>
+      <description>asdf asdf asdf</description>
+    </item>
+    
+    <item>
+      <title>Linux_bug</title>
+      <link>https://yrdimple.github.io/docs/environment_install/linux_bug/</link>
+      <pubDate>Sat, 27 Nov 2021 18:32:31 +0800</pubDate>
+      
+      <guid>https://yrdimple.github.io/docs/environment_install/linux_bug/</guid>
+      <description>asdf asdf</description>
+    </item>
+    
+    <item>
+      <title>Mac_lib</title>
+      <link>https://yrdimple.github.io/docs/environment_install/mac_lib/</link>
+      <pubDate>Sat, 27 Nov 2021 18:32:08 +0800</pubDate>
+      
+      <guid>https://yrdimple.github.io/docs/environment_install/mac_lib/</guid>
+      <description>asdf asdf</description>
+    </item>
+    
+    <item>
+      <title>Win_lib</title>
+      <link>https://yrdimple.github.io/docs/environment_install/win_lib/</link>
+      <pubDate>Sat, 27 Nov 2021 18:31:58 +0800</pubDate>
+      
+      <guid>https://yrdimple.github.io/docs/environment_install/win_lib/</guid>
+      <description>asdf asdf</description>
+    </item>
+    
+    <item>
+      <title>Linux_lib</title>
+      <link>https://yrdimple.github.io/docs/environment_install/linux_lib/</link>
+      <pubDate>Sat, 27 Nov 2021 18:31:52 +0800</pubDate>
+      
+      <guid>https://yrdimple.github.io/docs/environment_install/linux_lib/</guid>
+      <description>asdf asdf</description>
+    </item>
+    
+  </channel>
+</rss>

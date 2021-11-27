@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Software on </title>
+    <link>https://yrdimple.github.io/docs/software/</link>
+    <description>Recent content in Software on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 27 Nov 2021 18:15:15 +0800</lastBuildDate><atom:link href="https://yrdimple.github.io/docs/software/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Apps_tool</title>
+      <link>https://yrdimple.github.io/docs/software/apps_tool/</link>
+      <pubDate>Sat, 27 Nov 2021 18:16:47 +0800</pubDate>
+      
+      <guid>https://yrdimple.github.io/docs/software/apps_tool/</guid>
+      <description>tools_dev  xshell xftp  </description>
+    </item>
+    
+    <item>
+      <title>Apps_dev</title>
+      <link>https://yrdimple.github.io/docs/software/apps_dev/</link>
+      <pubDate>Sat, 27 Nov 2021 18:16:38 +0800</pubDate>
+      
+      <guid>https://yrdimple.github.io/docs/software/apps_dev/</guid>
+      <description>JetBrains  clion ieda pycharm  MicroSoft  visual studio visual studio code  </description>
+    </item>
+    
+    <item>
+      <title>Apps_common</title>
+      <link>https://yrdimple.github.io/docs/software/apps_common/</link>
+      <pubDate>Sat, 27 Nov 2021 18:16:32 +0800</pubDate>
+      
+      <guid>https://yrdimple.github.io/docs/software/apps_common/</guid>
+      <description>MicroSoft  word excel ppt oneNote outlook todo  adobe  dc for .pdf photoshop lightroom  tool  edge xmind （很少一部分功能，需要购买或破解） potpalyer utools snipaste  better to use windows  everything TransluentTB (in Microsoft Store) IDM (Internet Download Manager)(需要购买或破解)  </description>
+    </item>
+    
+    <item>
+      <title>Useful</title>
+      <link>https://yrdimple.github.io/docs/software/useful/</link>
+      <pubDate>Sat, 27 Nov 2021 18:15:32 +0800</pubDate>
+      
+      <guid>https://yrdimple.github.io/docs/software/useful/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

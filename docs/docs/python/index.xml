@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python on </title>
+    <link>https://yrdimple.github.io/docs/python/</link>
+    <description>Recent content in Python on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 27 Nov 2021 16:45:58 +0800</lastBuildDate><atom:link href="https://yrdimple.github.io/docs/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Py_t3</title>
+      <link>https://yrdimple.github.io/docs/python/py_t3/</link>
+      <pubDate>Sat, 27 Nov 2021 16:48:29 +0800</pubDate>
+      
+      <guid>https://yrdimple.github.io/docs/python/py_t3/</guid>
+      <description>afadf asddf
+adsf adfasdg af
+adfetq </description>
+    </item>
+    
+    <item>
+      <title>Py_t2</title>
+      <link>https://yrdimple.github.io/docs/python/py_t2/</link>
+      <pubDate>Sat, 27 Nov 2021 16:48:27 +0800</pubDate>
+      
+      <guid>https://yrdimple.github.io/docs/python/py_t2/</guid>
+      <description>afadf asdd
+npm outdated [[&amp;lt;@scope&amp;gt;/]&amp;lt;pkg&amp;gt; ...] npm outdated [[&amp;lt;@scope&amp;gt;/]&amp;lt;pkg&amp;gt; ...] adsf npm outdated [[&amp;lt;@scope&amp;gt;/]&amp;lt;pkg&amp;gt; ...] adfasdg af
+npm outdated [[&amp;lt;@scope&amp;gt;/]&amp;lt;pkg&amp;gt; ...] adfetq npm outdated [[&amp;lt;@scope&amp;gt;/]&amp;lt;pkg&amp;gt; ...] </description>
+    </item>
+    
+    <item>
+      <title>Py_t1</title>
+      <link>https://yrdimple.github.io/docs/python/py_t1/</link>
+      <pubDate>Sat, 27 Nov 2021 16:48:22 +0800</pubDate>
+      
+      <guid>https://yrdimple.github.io/docs/python/py_t1/</guid>
+      <description>afadf asddf
+adsf adfasdg af
+adfetq# adfadf dzvxcv
+using namesapace std;int main(){return 0;	} </description>
+    </item>
+    
+  </channel>
+</rss>

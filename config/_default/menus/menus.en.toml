@@ -18,10 +18,10 @@
 
 
 [[docs]]
-  name = "c++"
+  name = "cpp"
   weight = 10
-  identifier = "c++"
-  url = "/docs/c++/"
+  identifier = "cpp"
+  url = "/docs/cpp/"
 
 
 [[docs]]
@@ -30,11 +30,42 @@
   identifier = "leetcode"
   url = "/docs/leetcode/"
 
+
+[[docs]]
+  name = "golang"
+  weight = 10
+  identifier = "golang"
+  url = "/docs/golang/"
+
+[[docs]]
+  name = "software"
+  weight = 10
+  identifier = "software"
+  url = "/docs/software/"
+
+[[docs]]
+  name = "bug"
+  weight = 10
+  identifier = "bug"
+  url = "/docs/bug/"
+
+[[docs]]
+  name = "environment_install"
+  weight = 10
+  identifier = "environment_install"
+  url = "/docs/environment_install/"
+
 [[docs]]
   name = "Help"
   weight = 60
   identifier = "help"
   url = "/docs/help/"
+
+[[docs]]
+  name = "linux"
+  weight = 10
+  identifier = "linux"
+  url = "/docs/linux/"
 
 [[main]]
   name = "Docs"

@@ -5,6 +5,32 @@
   url = "/docs/prologue/"
 
 [[docs]]
+  name = "python"
+  weight = 10
+  identifier = "python"
+  url = "/docs/python/"
+
+[[docs]]
+  name = "shell"
+  weight = 10
+  identifier = "shell"
+  url = "/docs/shell/"
+
+
+[[docs]]
+  name = "c++"
+  weight = 10
+  identifier = "c++"
+  url = "/docs/c++/"
+
+
+[[docs]]
+  name = "leetcode"
+  weight = 10
+  identifier = "leetcode"
+  url = "/docs/leetcode/"
+
+[[docs]]
   name = "Help"
   weight = 60
   identifier = "help"

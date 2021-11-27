@@ -52,27 +52,6 @@
   </url>
   
   <url>
-    <loc>https://yrdimple.github.io/docs/linux/commands/</loc>
-    <lastmod>2021-11-27T19:05:28+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://yrdimple.github.io/docs/linux/vim/</loc>
-    <lastmod>2021-11-27T19:02:36+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://yrdimple.github.io/docs/linux/</loc>
-    <lastmod>2021-11-27T19:02:29+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://yrdimple.github.io/docs/bug/bugs_at_work/</loc>
     <lastmod>2021-11-27T18:33:59+08:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -96,13 +75,6 @@
   <url>
     <loc>https://yrdimple.github.io/docs/environment_install/win_bug/</loc>
     <lastmod>2021-11-27T18:32:36+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://yrdimple.github.io/docs/environment_install/linux_bug/</loc>
-    <lastmod>2021-11-27T18:32:31+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -136,97 +108,6 @@
   </url>
   
   <url>
-    <loc>https://yrdimple.github.io/docs/software/apps_tool/</loc>
-    <lastmod>2021-11-27T18:16:47+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://yrdimple.github.io/docs/software/apps_dev/</loc>
-    <lastmod>2021-11-27T18:16:38+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://yrdimple.github.io/docs/software/apps_common/</loc>
-    <lastmod>2021-11-27T18:16:32+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://yrdimple.github.io/docs/software/useful/</loc>
-    <lastmod>2021-11-27T18:15:32+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://yrdimple.github.io/docs/software/</loc>
-    <lastmod>2021-11-27T18:15:15+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://yrdimple.github.io/docs/leetcode/problems/</loc>
-    <lastmod>2021-11-27T17:19:28+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://yrdimple.github.io/docs/leetcode/conculsion/</loc>
-    <lastmod>2021-11-27T17:19:00+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://yrdimple.github.io/docs/leetcode/</loc>
-    <lastmod>2021-11-27T17:18:06+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://yrdimple.github.io/docs/shell/shell_awk/</loc>
-    <lastmod>2021-11-27T17:10:28+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://yrdimple.github.io/docs/shell/shell_sed/</loc>
-    <lastmod>2021-11-27T17:10:09+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://yrdimple.github.io/docs/shell/shell_grep/</loc>
-    <lastmod>2021-11-27T17:10:06+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://yrdimple.github.io/docs/golang/go_t2/</loc>
-    <lastmod>2021-11-27T17:09:55+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://yrdimple.github.io/docs/golang/go_t1/</loc>
-    <lastmod>2021-11-27T17:09:53+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://yrdimple.github.io/docs/cpp/cpp_t2/</loc>
     <lastmod>2021-11-27T17:09:43+08:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -241,57 +122,8 @@
   </url>
   
   <url>
-    <loc>https://yrdimple.github.io/docs/shell/</loc>
-    <lastmod>2021-11-27T17:09:13+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://yrdimple.github.io/docs/golang/</loc>
-    <lastmod>2021-11-27T17:09:04+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://yrdimple.github.io/docs/cpp/</loc>
     <lastmod>2021-11-27T17:08:43+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://yrdimple.github.io/docs/python/py_t3/</loc>
-    <lastmod>2021-11-27T16:48:29+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://yrdimple.github.io/docs/python/py_t2/</loc>
-    <lastmod>2021-11-27T16:48:27+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://yrdimple.github.io/docs/python/py_t1/</loc>
-    <lastmod>2021-11-27T16:48:22+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://yrdimple.github.io/docs/python/</loc>
-    <lastmod>2021-11-27T16:45:58+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://yrdimple.github.io/docs/versions/</loc>
-    <lastmod>2021-09-24T08:50:23+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -341,20 +173,6 @@
   <url>
     <loc>https://yrdimple.github.io/</loc>
     <lastmod>2020-10-06T08:47:36+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://yrdimple.github.io/contact/</loc>
-    <lastmod>2020-08-27T19:25:12+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://yrdimple.github.io/privacy-policy/</loc>
-    <lastmod>2020-08-27T19:23:18+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

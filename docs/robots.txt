@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://yrdimple.blog.github.io/sitemap.xml
+Sitemap: https://yrdimple.github.io/sitemap.xml
